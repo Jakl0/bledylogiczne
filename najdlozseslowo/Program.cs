@@ -20,4 +20,4 @@ foreach (string slowo in slowa)
 
 Console.WriteLine($"Najdłuższe słowo: {najdluzsze}");
 
-
+//nie ma bledu
