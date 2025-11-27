@@ -35,3 +35,4 @@ for (int i = 0; i < rzymska.Length; i++)
 }
 
 Console.WriteLine($"Wynik: {wynik}");
+//nie ma bledu
