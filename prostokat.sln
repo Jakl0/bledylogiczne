@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "przestepny", "przestepny\pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista", "lista\lista.csproj", "{5510426C-BE81-4AFA-BC2A-EEB08A3792C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rzymskanaarabska", "rzymskanaarabska\rzymskanaarabska.csproj", "{82ED5381-AF1A-4FCC-B8B0-B1BC2CFF1BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haslo", "haslo\haslo.csproj", "{61BA1115-3689-4D90-A9FF-0A15976159A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{5510426C-BE81-4AFA-BC2A-EEB08A3792C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5510426C-BE81-4AFA-BC2A-EEB08A3792C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5510426C-BE81-4AFA-BC2A-EEB08A3792C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ED5381-AF1A-4FCC-B8B0-B1BC2CFF1BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ED5381-AF1A-4FCC-B8B0-B1BC2CFF1BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ED5381-AF1A-4FCC-B8B0-B1BC2CFF1BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ED5381-AF1A-4FCC-B8B0-B1BC2CFF1BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BA1115-3689-4D90-A9FF-0A15976159A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BA1115-3689-4D90-A9FF-0A15976159A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BA1115-3689-4D90-A9FF-0A15976159A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BA1115-3689-4D90-A9FF-0A15976159A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
